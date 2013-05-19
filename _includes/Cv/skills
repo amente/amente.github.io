@@ -1,0 +1,76 @@
+<p>
+
+
+<div class="tabbable "> 
+ <ul class="nav nav-tabs" data-tabs="tabs">
+    <li class="active"><a href="#tab-prog" data-toggle="tab"><i class="icon-chevron-down"></i> Programming Languages</a></li>
+    <li><a href="#tab-framework" data-toggle="tab"><i class="icon-chevron-down"></i> Frameworks and Tools</a></li>
+    <li><a href="#tab-electronics" data-toggle="tab"><i class="icon-chevron-down"></i> Electronics and Hardware</a></li>    
+ </ul>
+	<div class="tab-content" style="overflow-x:hidden">
+ 		<div class="tab-pane active" id="tab-prog">
+ 		<p>
+         <h5> Programming Lanuguages: </h5>       
+		<div class="span12">
+				{% for lang in page.langs %}
+			<div class="span4">
+				<ul class="thumbnails">
+  					<li class="span9">
+    					<a href="#" class="thumbnail" style="box-shadow:none;border:0 none">
+      					<img src="{{asset-root}}{{lang}}.gif" alt="{{lang}}" title="{{lang}}" >
+    					</a>
+  					</li>                     
+				</ul>
+			</div>
+				{%endfor%}
+			</div>
+ 		</p>
+            
+ 		</div>
+ 		<div class="tab-pane" id="tab-framework">
+    	
+    	<p>
+         <h5> Web,Database and Application technologies </h5>       
+		<div class="span12">
+				{% for frm in page.frameworks %}
+			<div class="span4">
+				<ul class="thumbnails">
+  					<li class="span9">
+    					<a href="#" class="thumbnail" style="box-shadow:none;border:0 none">
+      					<img src="{{asset-root}}{{frm}}.gif" alt="{{frm}}" title="{{frm}}">
+    					</a>
+  					</li>                     
+				</ul>
+			</div>
+				{%endfor%}
+			</div>
+ 		</p>
+           
+
+ 		</div>
+        <div class="tab-pane" id="tab-electronics">    		
+         <p>
+         <h5> Electronics,Robotics and hardware </h5>       
+		<div class="span12">
+				{% for hrd in page.hardwares %}
+			<div class="span4">
+				<ul class="thumbnails">
+  					<li class="span9">
+    					<a href="#" class="thumbnail" style="box-shadow:none;border:0 none">
+      					<img src="{{asset-root}}{{hrd}}.gif" alt="{{hrd}}" title="{{hrd}}"  >
+    					</a>
+  					</li>                     
+				</ul>
+			</div>
+				{%endfor%}
+			</div>
+ 		</p>
+
+
+ 		</div> 
+ 		
+ 	</div> <!-- End tab content -->
+</div> <!-- End tabbable -->
+
+
+</p>
