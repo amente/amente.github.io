@@ -1,0 +1,29 @@
+---
+layout: blog
+title : Blog
+header : Archive
+group: navigation
+---
+{% include JB/setup %}
+
+{%for post in site.posts %}
+<div class="span12">
+<div class="span3">
+<ul class="thumbnails">
+  <li class="span12">
+    <a href="#" class="thumbnail">
+      <img src="{{post.thumbnail}}" alt="">
+    </a>
+  </li>  
+</ul>
+</div>
+<div class="span9">
+<h5><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }} |<small> {{ post.date | date: "%B %e, %Y" }}</small> </a> </h5>
+<p>{{post.preview}} </p>
+<a class="btn btn-primary btn-mini" href="{{ BASE_PATH }}{{ post.url }}">Read more..</a>
+{%if forloop.last == false %}
+ <hr> </hr>
+{%endif%}
+</div>
+</div>
+{%endfor%}

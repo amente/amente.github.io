@@ -1,0 +1,24 @@
+---
+author: amentebullo
+comments: true
+date: 2012-01-01 08:38:46
+layout: post
+slug: addis-ababa-university-electrical-and-computer-engineeringcompleting-2nd-year-and-withdrawal
+title: Addis Ababa University, Electrical and Computer Engineering,completing 2nd
+  Year and Withdrawal.
+wordpress_id: 277
+categories:
+- Updates
+thumbnail: http://amentebullo.files.wordpress.com/2013/05/376114_323287481017661_260229633_n.jpg
+preview: "When I finished preparatory school education in 2009,what I expected my self was to obtain a full study abroad scholarship and attend my postsecondary education in Europe or the United States. I was at the peak of my motivation"
+---
+
+When I finished preparatory school education in 2009,what I expected my self was to obtain a full study abroad scholarship and attend my postsecondary education in Europe or the United States. I was at the peak of my motivation ( at least I thought I was at that time but I now know there is more) to the pursuit of knowledge and wisdom. I read books, and did a lot of mathematics, honestly deep down I thought I would become a mathematician. While putting efforts in understanding scholarship and financial aid applications for foreign universities, I joined Addis Ababa University,Institute of Technology. I did a Pre-engineering semester with five courses and joined the Electrical and Computer Engineering department.
+
+I did not enjoy most of the courses except for few which by chance I took from very clever professors.One of the things that kept me interested during my two years stay in the university was the broadband  Internet connection. I was lucky to get my first laptop just before I started university.So I was on the Internet in almost all the time I spent in the campus.I learned more stuff from the Internet than in any of the courses I took. I watched many of [MIT open course ware](http://ocw.mit.edu) video lectures, Physics 801,Physics 802, Introduction to Programming,Differential Equations and many more. I also started having fun with [Linux](http://www.linux.org). I once loaded my computer with 5 types of operating systems just for fun. I installed [Ubuntu](http://www.ubuntu.org) on my laptop and started to use it as a major operating system. I read many Wikipedia pages about almost any topic that I encountered. I learned computer programming fundamentals with python and  c++ .I also learned web developing fundamentals ,HTML,JavaScript and PHP. I enjoyed the Internet more than the university.
+
+The other thing that kept my interest was the library, It was full of books compared to any of the libraries I encountered in my life at that time. I browsed for books on the shelves and read those who took my interest. Among the books I read were 'Where wizards stay up late: The Origins Of The Internet' by Katie Hafner and Matthew Lyon ,'The Supermen: The Story of Seymour Cray and the Technical Wizards Behind the Supercomputer' by Charles J Murray and  'Applied Cryptography' by Bruce Schneier. I also worked on many of the advanced mathematics and physics books. I was also able to have a look at technical publication magazines from Bell Labs. The library was an infinite source of knowledge,but by the end of first year I started volunteering on some projects at the university and  visited the library less and less.
+
+During the summer break of first year I met Mr. May, a respected Scottish Electrical Engineer and Radio Amateur, and started to be involved in maintenance tasks around the university and setting up the amateur radio station ET3AA.During the time I spent with him,I learned how to use various tools and techniques to do electrical and mechanical work. I learned some wood work, welding, roof water proofing etc.Most of all, I learned about radio communications and technology and became a radio ham. I  was baptized with the engineering spirit. There was no way I could have got these skills other than learning them from Mr.May. By the end of the second term of my second year, we inaugurated ET3AA by inviting the local television,professors and various ministers. We also invited the president of the international amateur radio union region one,to cut the ribbon. Following the inauguration, I reformed and organized the Ethiopian Amateur Radio Society and got the chance to represent it in the IARU Region I conference in Sun city, South Africa.
+
+By the end of my second year, I got a chance to move to Canada and become a Canadian permanent resident. That was a great leap in my life,and following that I planned for my education and got accepted at Carleton University ( Where I am studying Computer Systems Engineering now). I filled in withdrawal at Addis Abeba University, payed my cost-sharing payments and got my transcript. Finally I moved to Canada and joined a new campus.
