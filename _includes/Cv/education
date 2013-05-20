@@ -1,5 +1,29 @@
-Education
+{%assign carleton-url="http://www.carleton.ca" %}
+{%assign aau-url="http://www.aau.edu.et" %}
 
-Bachelor of Engineering (Computer Systems Engineering), Co-op Option September 2011-present Carleton University, Ottawa, Ontario Graduation Date: May 2016(Expected)
+<div class="span12">
 
-Bachelor of Science (Electrical and Computer Engineering), September 2009 - September 2011 Addis Ababa University, Addis Ababa , Ethiopia, 2nd year Level Achieved
+<div class="span3">
+   <a href="{{carleton-url}}"> Carleton University</a>
+</div>
+<div class="span9">
+    <h6>Bachelor of Engineering (Computer Systems Engineering), Co-op Option</h6>
+    <small>September 2011-present </small> 
+    <p> Graduation Date: May 2016(Expected) </p>   
+ <hr> </hr>
+</div>
+</div>
+
+<div class="span12">
+
+<div class="span3">
+   <a href="{{aau-url}}"> Addis Ababa University </a>
+</div>
+<div class="span9">
+    <h6>Bachelor of Science (Electrical and Computer Engineering)</h6>
+    <small>September 2009 - September 2011 </small>
+    <p> Ethiopia, 2nd year Level Achieved </p> 
+</div>
+</div>
+
+  

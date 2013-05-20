@@ -22,6 +22,8 @@ frameworks:
 - Ubuntu
 - WordPress
 - Drupal
+- Django
+- Rails
 hardwares:
 - Arduino
 - RaspberryPi
@@ -32,6 +34,15 @@ hardwares:
 {% include JB/setup %}
 {% assign asset-root="https://dl.dropboxusercontent.com/u/89589370/amente.github.io/" %}
 
+<!-- A work arround to display alt text in chrome, when image is not found -->
+<script type="text/JavaScript">
+$(document).ready(function() {
+  function showAlt(){$(this).replaceWith(this.alt)};
+  function addShowAlt(selector){$(selector).error(showAlt).attr("src", $(selector).src)};
+  addShowAlt("img");
+});
+</script>
+
 <div class="tabbable"> <!-- Only required for left/right tabs -->
  <ul class="nav nav-tabs" data-tabs="tabs">
     <li class="active"><a href="#tab1" data-toggle="tab"><i class="icon-folder-open"></i> Skills Profile</a></li>
@@ -39,18 +50,26 @@ hardwares:
     <li><a href="#tab3" data-toggle="tab"><i class="icon-wrench"></i>Work Experience</a></li>
     <li><a href="#tab4" data-toggle="tab"><i class="icon-gift"></i>Volunteer Work</a></li>
  </ul>
-	<div class="tab-content">
+	<div class="tab-content" style="overflow-x:hidden">
  		<div class="tab-pane active" id="tab1">
-            {% include Cv/skills %}
+      <p>
+        {% include Cv/skills %}
+      </p>
  		</div>
  		<div class="tab-pane" id="tab2">
-    		{% include Cv/work %}
- 		</div>
-        <div class="tab-pane" id="tab3">
+        <p>
     		{% include Cv/education %}
+        </p>
+ 		</div>
+    <div class="tab-pane" id="tab3">
+      <p>
+    		{% include Cv/work %}
+      </p>
  		</div> 
  		<div class="tab-pane" id="tab4">
+      <p>
     		{% include Cv/volunteer %}
+      </p>
  		</div> 
 
 

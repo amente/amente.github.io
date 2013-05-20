@@ -1,11 +1,63 @@
-Software Developer Intern, May - September 2012
-Carleton University Parallel Computing and Bio-Informatics Lab, Ottawa, ON
+{%assign grype-url="http://www.grype.ca" %}
+{%assign ibm-url="http://www.ca.ibm.com" %}
+{%assign carleton-url="http://www.carleton.ca" %}
 
-Designed and developed a database managment tool using Python and MySQL, used for structuring and querying protien-protien interaction results, working independently with little supervision.
 
-Software Developer , July - September 2012
-Grype Solutions, Ottawa, ON
+<div class="span12">
 
-*	Worked on a Web based POS (Point of Sale) software for a major client using C#.NET and working in a team environment.
-*	Worked on integrating Barcode Scanners and, Label and Receipt printers to a web based POS using JavaScript (JQuery), JSON and Java Applet.
-*	Wrote quick fix scripts for a web portal backend with PHP
+<div class="span3">
+   <a href="{{ibm-url}}"> IBM</a>
+</div>
+<div class="span9">
+    <h6>Software Developer Co-op</h6>
+    <small>May 2013 - Present </small> 
+    <p> 
+    <ul><li>Working in the product engineering department  
+     for software support tools at Riverside Cognos ottawa. 
+    </li></ul>
+    </p>   
+ <hr> </hr>
+</div>
+</div>
+
+
+<div class="span12">
+
+<div class="span3">
+   <a href="{{grype-url}}"> Grype Solutions</a>
+</div>
+<div class="span9">
+    <h6>Software Developer (Full Time)</h6>
+    <small>July - September 2012 </small> 
+   
+    <p> <ul>
+    <li>Worked on a Web based POS (Point of Sale) software for a major client using C#.NET,working in a team environment.</li>
+    <li> Integrated Barcode Scanner,Label & Receipt printers to the POS using JavaScript (JQuery), JSON and Java Applet.</li>
+    <li>Wrote quick fix scripts for Drupal and WordPress based portals using PHP </li> </ul></p>   
+    
+    <h6>Software Developer (Part Time)</h6>
+    <small>September 2012 - May 2013 </small> 
+    <p> <ul><li>Wrote blog articles and configured web servers</li></ul></p>  
+ <hr> </hr>
+</div>
+</div>
+
+<div class="span12">
+
+<div class="span3">
+   <a href="{{carleton-url}}">Carleton University Parallel Computing and Bio-Informatics Lab</a>
+</div>
+<div class="span9">
+    <h6>Software Developer Intern</h6>
+    <small>May - September 2012</small>
+    <p> 
+    <ul>
+    <li>Designed and developed a terminal based database managment tool using Python and MySQL, used for structuring and querying protein-protein 
+    interaction results in bioinformatics. </li> 
+    <li>Worked independently with little supervision.</li>
+    </ul>
+   </p> 
+</div>
+</div>
+
+

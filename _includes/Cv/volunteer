@@ -1,11 +1,39 @@
-Volunteer Work
+{%assign ieee-url="http://www.ieee.carleton.ca" %}
+{%assign curc-url="http://www.carletonrobotics.com" %}
 
-IEEE Carleton University Student Branch, January 2012 - present
+<div class="span12">
 
-*	Webmaster for the branch, developed a website that won 1st place in the 2012 IEEE Student Branch Global Website Contest
+<div class="span3">
+   <a href="{{ieee-url}}"> IEEE Carleton University Student Branch</a>
+</div>
+<div class="span9">
+    <h6>Computer Society Chair</h6>
+    <small>May 2013-present </small> 
+    <p><ul>
+    <li>Responsible for organizing workshops and the anual junior programming competition CodeJam</li>
+    </ul> </p>
+    <h6>Webmaster</h6>
+    <small>January 2012- May 2013 </small> 
+    <p><ul>
+    <li>Built a website that won first place in the Global IEEE Student Branch 
+     Website Contest</li>
+    </ul> </p>
+ <hr> </hr>
+</div>
+</div>
 
-Carleton University Robotics Club, January 2012
+<div class="span12">
 
-*	Organized introductory Robotics and Microcontroller programming workshops using Arduino.
+<div class="span3">
+   <a href="{{curc-url}}"> Carleton University Robotics Club</a>
+</div>
+<div class="span9">
+    <h6>3Pi Competetion Manager</h6>
+    <small>September 2012 - May 2013 </small>
+    <p> <ul> 
+    <li> Organized introductory robotics programming workshops </li>
+    <li> Participated in the Cansat competetion team </li>
+    </ul> </p> 
+</div>
+</div>
 
-*	Particapated in the 2012 CanSat Competetion as part of a team who designed,built and launched a can sized sattelite like system
