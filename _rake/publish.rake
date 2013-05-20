@@ -1,6 +1,7 @@
 # Change your GitHub reponame
 GITHUB_REPONAME = "amente/amente.github.io"
-
+require "jekyll"
+require "tmpdir"
 
 desc "Generate blog files"
 task :generate do
