@@ -16,7 +16,7 @@ tags:
 - IEEE Carleton University
 - VA3AXB
 - WordPress
-thumbnail: https://amentebullo.files.wordpress.com/2012/05/2.png
+thumbnail: /images/uploads/2012/05/2.png
 preview: "It has been a while since my last post, a lot of new updates, I finished school for this year. Well that's not a lot, but for me actually it is. Now I can concentrate on my own schedule and do the things that I planned to do as I exactly want them to be done."
 ---
 

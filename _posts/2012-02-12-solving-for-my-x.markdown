@@ -8,7 +8,7 @@ title: Solving for my X?
 wordpress_id: 372
 categories:
 - Thoughts and Philosophy
-thumbnail: http://amentebullo.files.wordpress.com/2013/05/x.jpg
+thumbnail: /images/uploads/2013/05/x.jpg
 preview: "A few minutes just before I wrote this post, I stumbled across [http://www.wesolveforx.com/](http://www.wesolveforx.com/) .  It is a forum that is just launched (few hours ago) by Google. The idea is this:
 "
 ---

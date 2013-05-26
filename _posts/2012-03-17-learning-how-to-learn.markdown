@@ -8,7 +8,7 @@ title: Learning how to learn!
 wordpress_id: 411
 categories:
 - Thoughts and Philosophy
-thumbnail: https://amentebullo.files.wordpress.com/2012/03/coding.png
+thumbnail: /images/uploads/2012/03/coding.png
 preview: "Being able to learn **how to learn**, is the skill that I see only very few students acquiring. The formal education, that I went through was, and is still, full of instructions,rules and dictation. It is a broad and general way of learning for an average student.."
 ---
 
@@ -18,7 +18,7 @@ When did I learn to learn by myself?  The answer for this is very clear when I 
 
 When I read up on a topic that I have no idea at all, there is feedback loop that goes back and forth, forcing me to infer on to my previous knowledge and at the same time pushing me to learn the bits and pieces of the new topic independently on their own right. It is like looking up to a dictionary for a meaning and finding a word that I don't know in the meaning, forcing me to look for the meaning of this new word and understand what it means to infer back to the first word and know its meaning.
 
-[![](https://amentebullo.files.wordpress.com/2012/03/coding.png)](https://amentebullo.files.wordpress.com/2012/03/coding.png)
+[![](/images/uploads/2012/03/coding.png)](/images/uploads/2012/03/coding.png)
 
 This feed back loop becomes explicitly clear for example, when learning to write a computer program with an imperative language. The coding process goes in a loop where you write the program, debug it, get the error messages, find out what they are , fix your code, and debug it again, and keep doing this until you get a working program that does exactly what you are looking for. This loop is self supported so you don't need any instruction or dictation from a second party. You can always improve up on your work from the feed back you get from your own work.
 
@@ -26,4 +26,4 @@ In fact it happens that the necessity for tests,assignments and exams at school 
 
 I found this topic very interesting but, I have to wrap up things and publish it so that it won't end up with most of my many other posts in the unfinished draft folder. In another post in the future, I will write more about my experience as learning to learn by myself, and also explain the idea in a broader sense.
 
-[![](https://amentebullo.files.wordpress.com/2012/03/learning.png)](https://amentebullo.files.wordpress.com/2012/03/learning.png)
+[![](/images/uploads/2012/03/learning.png)](/images/uploads/2012/03/learning.png)

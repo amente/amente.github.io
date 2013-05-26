@@ -8,7 +8,7 @@ title: 'Getting Started with Mobile Development Platforms,Android and Windows Ph
 wordpress_id: 358
 categories:
 - Computer Programming
-thumbnail: http://amentebullo.files.wordpress.com/2012/01/android.png
+thumbnail: /images/uploads/2012/01/android.png
 preview: "I configured my PC to be a perfect mobile development environment.My previous PC had performance issues that held me back,but now I have started two projects, one on Android and one on Windows Phone."
 ---
 
@@ -56,8 +56,8 @@ If everything went alright, then you have a complete Windows Phone development�
 
 Here are final screen shots from my PC:
 
-[![](http://amentebullo.files.wordpress.com/2012/01/android.png)](http://amentebullo.files.wordpress.com/2012/01/android.png)
+[![](/images/uploads/2012/01/android.png)](/images/uploads/2012/01/android.png)
 
-[![](http://amentebullo.files.wordpress.com/2012/01/windows-phone.png)](http://amentebullo.files.wordpress.com/2012/01/windows-phone.png)
+[![](/images/uploads/2012/01/windows-phone.png)](/images/uploads/2012/01/windows-phone.png)
 
 

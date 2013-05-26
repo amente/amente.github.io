@@ -4,7 +4,7 @@ title: "Hello World!"
 description: "My first Jekyll post"
 category: 
 tags: []
-thumbnail: http://amentebullo.files.wordpress.com/2013/05/screenshot-from-2013-05-18-214215.png
+thumbnail: /images/uploads/2013/05/screenshot-from-2013-05-18-214215.png
 preview: "Hello World! My blog is moved from wordpress to here!"
 ---
 {% include JB/setup %}

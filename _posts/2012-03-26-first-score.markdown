@@ -8,7 +8,7 @@ title: First Score!
 wordpress_id: 428
 categories:
 - Updates
-thumbnail: http://amentebullo.files.wordpress.com/2012/03/20.jpg
+thumbnail: /images/uploads/2012/03/20.jpg
 preview: "A group or set of twenty is called a score.I have now lived my first score.That's so great! Twenty years ago,I was nothing. I could not do anything. I had no memories.."
 ---
 
@@ -16,6 +16,6 @@ A group or set of twenty is called a score.I have now lived my first score.That'
 
 **On my twentieth birthday, I would like to take the moment and thank every one who made my life worth living. **
 
-[![](http://amentebullo.files.wordpress.com/2012/03/20.jpg)](http://amentebullo.files.wordpress.com/2012/03/20.jpg)
+[![](/images/uploads/2012/03/20.jpg)](/images/uploads/2012/03/20.jpg)
 
 
