@@ -8,7 +8,7 @@ title: 2011 from my perspective.
 wordpress_id: 274
 categories:
 - Thoughts and Philosophy
-thumbnail: http://amentebullo.files.wordpress.com/2013/05/2011.jpg
+thumbnail: /images/uploads/2013/05/2011.jpg
 preview: "2011 was an incredible year in my life. I turned out 19 in March.I finished a 2nd year Electrical and Computer Engineering education at Addis Abeba University,Institute of Technology in June,I represented Ethiopian Amateur Radio Society"
 ---
 

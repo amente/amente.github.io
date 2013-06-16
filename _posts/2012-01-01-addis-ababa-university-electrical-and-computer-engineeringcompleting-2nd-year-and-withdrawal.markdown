@@ -9,7 +9,7 @@ title: Addis Ababa University, Electrical and Computer Engineering,completing 2n
 wordpress_id: 277
 categories:
 - Updates
-thumbnail: http://amentebullo.files.wordpress.com/2013/05/376114_323287481017661_260229633_n.jpg
+thumbnail: /images/uploads/2013/05/376114_323287481017661_260229633_n.jpg
 preview: "When I finished preparatory school education in 2009,what I expected my self was to obtain a full study abroad scholarship and attend my postsecondary education in Europe or the United States. I was at the peak of my motivation"
 ---
 

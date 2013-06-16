@@ -8,7 +8,7 @@ title: Review for My New Dell XPS L502x
 wordpress_id: 314
 categories:
 - Computers
-thumbnail: http://amentebullo.files.wordpress.com/2012/01/dsc02424.jpg
+thumbnail: /images/uploads/2012/01/dsc02424.jpg
 preview: "It has been about a week since I started using my new Dell XPSL502x customized laptop,and now I decided to write a review about it."
 ---
 

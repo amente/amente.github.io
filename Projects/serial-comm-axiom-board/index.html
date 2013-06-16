@@ -5,8 +5,17 @@ description: "Done as a bonus course work for SYSC2003 at Carleton University"
 group: project
 worked: team 
 weight: 1
+pictures:
+- /images/Projects/SYSC2003/sysc2003_1.png
+
+
+details: "All the implementation of the hardware side code was interrupt based. The CPU was not polling any of the devices (Including Keypad,Optical Sensor, Motor,LCD display,LED's,Temperature Sensor and the Serial Port). We tackled issues like inturrupt interference . We also found a defect on one of the serial port controller chip which we confirmed from the manufacturers errata. The desktop application was written in Java and includes classes to communicate with a serial port and parse the incoming data according to our protocol." 
+
+experience: "Working on this bonus project enabled me to gain experiences like peer programming. Me and my partner wrote all the code together on one computer with one of us typing at a time.Ofcourse also at the end, the professor gave us 5/4 for the bonus mark.(Ya, that is a bonus on a bonus:))"
+
+motivation: "After finishing all the manadatory assignments for the Introductory Real Time Systems course, me and my partner decided to do something that is both challenging and cool for the bonus. We agreed to program the second serial port(one is already used by the NOICE debugger for development). After we tackled that, we went on to develop a Java desktop application so that we can control all the sensors and devices on the board from another computer."
 ---
 {% include JB/setup %}
 
-As part of a course work for SYSC 2003 (Introductory Real Time Systems), with my partner [@excsniper](https://github.com/excsniper) we worked on a debugger applcation for a simple robot system based on Axiom Project Developement Board (Motorolla HCS12 MCU based). The hardware side of the code was written in C and cross compiled using ICC12. We also developed a simple JAVA desktop application to control the robot via a serial port using our own protocol
+As part of a course work for SYSC 2003 (Introductory Real Time Systems), with my partner <a href='https://github.com/excsniper'> excsniper</a> we worked on a debugger applcation for a simple robot like system based on the Axiom Project Developement Board (Motorolla HCS12 MCU based). The hardware side of the code was written in C and cross compiled. We also developed a simple JAVA desktop application to control the robot via a serial port using a simple potocol of our own. All our code for the  <a href='https://bitbucket.org/hackam/sysc-2003-robot-debugger'>desktop application</a> and the <a href='https://bitbucket.org/hackam/sysc2003/src/86e46dfb2d2eff768651648d95f8fc09e9941b4e/?at=assign5'>hardware side code</a>  is now open source.
 

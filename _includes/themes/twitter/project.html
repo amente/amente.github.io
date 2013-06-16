@@ -17,31 +17,19 @@
   	<!--  Carousel - consult the Twitter Bootstrap docs at
       http://twitter.github.com/bootstrap/javascript.html#carousel -->
 <div id="this-carousel-id" class="carousel slide"><!-- class of slide for animation -->
-  <div class="carousel-inner">
-    <div class="item active"><!-- class of active since it's the first item -->
-      <img src="http://placehold.it/1200x480" alt="" />
-      <div class="carousel-caption">
-        <p>Caption text here</p>
-      </div>
-    </div>
+  <div class="carousel-inner">   
+    {% for pic in page.pictures %}
+    {%if forloop.first %}
+    <div class="item active">
+      {%else%}
     <div class="item">
-      <img src="http://placehold.it/1200x480" alt="" />
-      <div class="carousel-caption">
-        <p>Caption text here</p>
-      </div>
+      {%endif%}
+      <div style='text-align: center'>
+      <img style='margin 0 auto' src="{{pic}}" alt="" />
+      </div>      
     </div>
-    <div class="item">
-      <img src="http://placehold.it/1200x480" alt="" />
-      <div class="carousel-caption">
-        <p>Caption text here</p>
-      </div>
-    </div>
-    <div class="item">
-      <img src="http://placehold.it/1200x480" alt="" />
-      <div class="carousel-caption">
-        <p>Caption text here</p>
-      </div>
-    </div>
+    {% endfor %}
+   
   </div><!-- /.carousel-inner -->
   <!--  Next and Previous controls below
         href values must reference the id for this carousel -->
@@ -59,17 +47,17 @@
 	<div class="tab-content" style="overflow-x:hidden">
  		<div class="tab-pane active" id="tab1">
       <p>
-        {% include Cv/skills %}
+        {{page.motivation}}
       </p>
  		</div>
  		<div class="tab-pane" id="tab2">
         <p>
-    		{% include Cv/education %}
+    		{{page.details}}
         </p>
  		</div>
     <div class="tab-pane" id="tab3">
       <p>
-    		{% include Cv/work %}
+    		{{page.experience}}
       </p>
  		</div> 
  		
