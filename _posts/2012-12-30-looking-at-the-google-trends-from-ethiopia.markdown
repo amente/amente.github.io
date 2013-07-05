@@ -25,9 +25,9 @@ preview: "Google has a [nice tool](http://trends.google.com) that enables anyone
 
 Google has a [nice tool](http://trends.google.com) that enables anyone to see the overall trend for any searched word over a certain period of time. Not only this , but it also allows to narrow results based on a given location. Just out of curiosity, I picked up 5 words and looked at search trends that originate from Ethiopia. You will be enthralled by the results !
 
-N.B: _The graphs just show a trend, by that I mean they show a normalized and scaled (0-100) number of searches for a given word (And related words) compared to the maximum number of searches for the same word over the period shown.In simple words ,They just show the interest in the topic not conclusively about the amount of traffic. For detailed explanation of how Google does this, look at the [help page.](http://support.google.com/trends?hl=en)_
+N.B: The graphs just show a trend, by that I mean they show a normalized and scaled (0-100) number of searches for a given word (And related words) compared to the maximum number of searches for the same word over the period shown.In simple words ,They just show the interest in the topic not conclusively about the amount of traffic. For detailed explanation of how Google does this, look at the [help page.](http://support.google.com/trends?hl=en)
 
-**              1. Meles**
+**1. Meles**
 
 [![meles_trend](/images/uploads/2012/12/meles_trend.png)](http://amentebullo.wordpress.com/2012/12/30/looking-at-the-google-trends-from-ethiopia/meles_trend/)
 
@@ -39,7 +39,7 @@ If you look at the trend for "Meles" the name of the lately deceased prime minis
 
 The growth of Facebook in the last 5 or 6 years has been phenomenal, reaching 1 billion active users worldwide in 2012. Looking at the search trend for the word "Facebook' , in Ethiopia, you can learn the same thing. Of course this graph doesn't say anything about the amount of traffic, but in general you can see the increase in the interest .
 
-** 3. Education**
+**3. Education**
 
 [![education_trend](/images/uploads/2012/12/education_trend.png)](http://amentebullo.wordpress.com/2012/12/30/looking-at-the-google-trends-from-ethiopia/education_trend/)
 

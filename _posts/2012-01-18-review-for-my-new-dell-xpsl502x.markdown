@@ -17,17 +17,15 @@ It has been about a week since I started using my new Dell XPSL502x customized l
 
 I will start with the specifications:
 
-Processor:** Intel Core i7-2640M Quad Core 4x 2.80 GHz ,Turbo boost up to 4x 3.5GHz**
+Processor:**Intel Core i7-2640M Quad Core 4x 2.80 GHz ,Turbo boost up to 4x 3.5GHz**
 
 Memory: **8GB,DDR3,2 DIMM, 1333MHz Dual Channel**
 
 Storage: **750GB 7200 RPM SATA Hard Drive**
 
-Graphics:** NVIDIA GeForce GT 540M 2GB dedicated + Intel 3000 integrated
-**
+Graphics:**NVIDIA GeForce GT 540M 2GB dedicated + Intel 3000 integrated**
 
-Display and Web-cam: **15.6 Multi Touch HD WLED TL + HD Skype Certified Web-cam
-**
+Display and Web-cam: **15.6 Multi Touch HD WLED TL + HD Skype Certified Web-cam**
 
 Factory Default OS: **Windows 7 Ultimate SP1**
 
@@ -39,8 +37,7 @@ Additional Accessories: **Back-lit Keyboard**
 
 Currently the Laptop is running Ubuntu Linux (11.10 Oneiric)  and the Factory default Windows 7 Ultimate with Grub 2 boot loader.Here are my reviews:
 
-**General review:
-**
+**General review:**
 
 * The HD graphics is very nice.
 

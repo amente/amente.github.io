@@ -18,7 +18,7 @@ It has been a while since I started playing with my [3pi robot](http://www.polol
 
 ![](http://b.pololu-files.com/picture/0J845.600.jpg?5f1a47e6c64706a613746d6971012dfb)
 
-_Image_ _Descriptions of 3pi robot, Courtesy of www.pololu.com_
+Descriptions of 3pi robot, Courtesy of www.pololu.com
 
 The robot is an entry level, easy to learn and inexpensive starting tool for learning robotics. Resources are available from [Pololu](http://pololu.com) including a complete guide with example projects.
 
@@ -32,17 +32,15 @@ The design of the robot is based on Arduino families, therefore it can be progra
 
 Based on my experiment with this robot,I have obtained the following skills so far:
 
-* Broadened my knowledge of reflectance sensors, how they work and how to use them.
+Broadened my knowledge of reflectance sensors, how they work and how to use them.
 
-* Increased my knowledge and understanding of micro controllers.
+Increased my knowledge and understanding of micro controllers.
 
-* Learned about ISP programming and programmers. I have started building the USBtiny after accidentally buying the kit from [adafruit](http://adafruit.com).
+Learned about ISP programming and programmers. I have started building the USBtiny after accidentally buying the kit from [adafruit](http://adafruit.com).
 
-* I will be taking part in a 3pi competition organized by the robotics club at my university.
+I will be taking part in a 3pi competition organized by the robotics club at my university.
 
 Here are some pictures of my robot:
-
-[slideshow]
 
 There are also some you tube videos from my channel, from Carleton Robotics Club and also other people. Enjoy them and Thank you for reading this.
 

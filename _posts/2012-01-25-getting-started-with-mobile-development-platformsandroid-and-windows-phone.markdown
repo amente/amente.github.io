@@ -18,9 +18,9 @@ I configured my PC to be a perfect mobile development environment.My previous P
 
 Requirements:
 
-* Internet access : It will be almost impossible if you don't have internet access on your development PC.
+Internet access : It will be almost impossible if you don't have internet access on your development PC.
 
-*A computer with at least 3GB of memory (2GB will do but there will be some performance issues, especially when you run the Android Virtual Device ).
+A computer with at least 3GB of memory (2GB will do but there will be some performance issues, especially when you run the Android Virtual Device ).
 
 Procedures:
 

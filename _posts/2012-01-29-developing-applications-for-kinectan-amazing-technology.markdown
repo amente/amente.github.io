@@ -12,7 +12,7 @@ thumbnail: /images/uploads/2012/01/kinect_skeletal.png
 preview: "About a month ago,on Christmas boxing day sale, I bought Kinect for $99 for an XBOX 360 which is already in the house. There were two full games with the deal, and also, I was able to download free trial games on the external hard drive"
 ---
 
-[caption id="attachment_363" align="alignnone" width="300" caption="The XBOK Kinect at my house"][![XBOX Kinect](/images/uploads/2012/01/dsc02562.jpg?w=300)](/images/uploads/2012/01/dsc02562.jpg)[/caption]
+[![](/images/uploads/2012/01/dsc02562.jpg)](/images/uploads/2012/01/dsc02562.jpg)
 
 In November 2010, Microsoft brought in to the market the worlds fastest selling consumer electronic device, **[Kinect](http://en.wikipedia.org/wiki/Kinect)**. Kinect was developed to be an add-on peripheral for **[Microsoft XBOX 360 game console](http://en.wikipedia.org/wiki/Xbox_360)**. Kinect is a motion sensing input device, consisting of a range camera,infrared depth sensor technology,multi-array microphone,and a software technology that enables full body 3D motion capture,facial recognition and voice recognition. Kinect has the ability to detect and track up to six people.
 
@@ -36,6 +36,7 @@ Here are some links that will help you get started, if you are interested.
 
 Here are my screen shots for the Sample Skeletal Viewer application that comes with the SDK. I have also the screen shot of my visual studio with a project template that will soon be turned in to an app. I will do another post about my progress. Thank You for reading this.
 
-[caption id="attachment_365" align="alignnone" width="645" caption="Sample Skeletal Viewer"][![](/images/uploads/2012/01/kinect_skeletal.png)](/images/uploads/2012/01/kinect_skeletal.png)[/caption]
+[![](/images/uploads/2012/01/kinect_skeletal.png)](/images/uploads/2012/01/kinect_skeletal.png)
 
-[caption id="attachment_364" align="alignnone" width="645" caption="Visual Studio, template for Kinect Skeletal App with VB"][![](/images/uploads/2012/01/kinect-test-vb.png)](/images/uploads/2012/01/kinect-test-vb.png)[/caption]
+[![](/images/uploads/2012/01/kinect-test-vb.png)](/images/uploads/2012/01/kinect-test-vb.png)
+
