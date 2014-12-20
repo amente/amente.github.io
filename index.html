@@ -1,0 +1,31 @@
+---
+layout: index
+title: Amente
+tagline: aka nickname
+---
+{% include JB/setup %}
+
+{% assign pages_list = site.pages %}
+
+<div class="row">
+  <h4> Active Projects </h4>
+  {% for page in pages_list %}
+  {% if page.group == 'project' and page.status == 'active'%}
+  <div class = "col-md-6" >
+    <h5><a href="{{ BASE_PATH }}{{ page.url }}"> {{page.title}}</a></h5>
+    <img src={{page.thumbnail}} class="img-responsive img-thumbnail" alt="Image">
+    <p> {{page.description}} </p>
+    <!--
+    <div class="span12">
+    {%for pic in page.pictures %}
+    {% if forloop.first %}
+    <div class="span4"><a href="{{ BASE_PATH }}{{ page.url }}"><img src="{{pic}}"></a><hr></div>
+    {%endif%}
+    {%endfor%}
+    <div class="span8"><p>{{page.highlights}}</p>
+  </div>
+</div> 	  -->
+</div>
+{%endif%}
+{%endfor%}
+</div>
