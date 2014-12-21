@@ -49,6 +49,15 @@ altitude-defined speeds.
 
 {% include carousel.html %}
 
+
+The system firmware code is available <a href="https://github.com/amente/cansat_2014_system">here</a>
+
+Also the ground control station software is available
+<a href="https://github.com/amente/cansat_2014_gs">here</a>
+
+The critical design review document is available
+<a href="http://amente.github.io/images/Projects/CanSat/cansat_2014_cdr.pdf">here</a>
+
 Below is a brief description of the mission and the system.
 
 <img src="/images/Projects/CanSat/cansat_mission_2014.png"/>
