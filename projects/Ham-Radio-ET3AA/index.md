@@ -17,6 +17,7 @@ who was always happy to teach anything to anyone. And, I was very eager to learn
 Working closely with Mr.May,I participated in building the ham radio station ET3AA.
 I gained hands on skills in Soldering PCB's,tracking satellites,
 building electrical installation and firefighting system repair.
+
 I also had the chance to represent the Ethiopian Amateur Radio Society
 at the International Amateur Radio Union Region 1 conference held in SunCity SouthAfrica,
 which enabled me to network with many Amateur Radio enthusiasts from Europe and Africa.

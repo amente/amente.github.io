@@ -12,11 +12,12 @@ status: 'inactive'
 
 As part of a course work for SYSC 2003 (Introductory Real Time Systems),
 with my partner <a href='https://github.com/excsniper'> excsniper</a>
-we worked on a debugger applcation for a simple robot like system based
-on the Axiom Project Developement Board (Motorolla HCS12 MCU based).
+we worked on a debugger application for a simple robot like system based
+on the Axiom Project Development Board (Motorolla HCS12 MCU based).
 The hardware side of the code was written in C.
+
 We also developed a simple JAVA desktop application
-to control the robot via a serial port using a simple potocol we devised.
+to control the robot via a serial port using a simple protocol we devised.
 All our code for the  <a href='https://bitbucket.org/hackam/sysc-2003-robot-debugger'>
 desktop application</a> and the <a href='https://bitbucket.org/hackam/sysc2003/src/86e46dfb2d2eff768651648d95f8fc09e9941b4e/?at=assign5'>
 hardware side code</a>  is now open source.

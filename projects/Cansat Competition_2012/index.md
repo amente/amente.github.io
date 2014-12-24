@@ -16,10 +16,9 @@ building and launching a can sized satellite like system.
 As part of a team from Carleton University Robotics Club, I participated in the 2012 competition."
 
 I worked on tasks that involved low level embedded applications programming in C/C++ and
-high level desktop application in Java.
-The CanSat competition project enabled me to learn a lot of things ,
-including inter chip communication protocols,
+high level desktop application in Java. The CanSat competition project enabled me to learn a lot of things , including inter chip communication protocols,
 Microcontroller programming and systems architecture.
-The multifacet nature of the project enabled me to closely work with
+
+The project also enabled me to closely work with
 and learn from students who are studying Mechanical and
 Aerospace Engineering ,Electrical Engineering and Software Engineering.
