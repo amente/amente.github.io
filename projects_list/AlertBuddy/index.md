@@ -24,5 +24,5 @@ I mainly worked on the research and development of the siren detection algorithm
 The following poster shows the highlights of the technique: 
 
 
-<iframe src="http://docs.google.com/gview?url=http://amente.github.io//project_list/AlertBuddy/AlertBuddy_Poster_Amente.pdf&embedded=true" 
+<iframe src="http://docs.google.com/gview?url=http://amente.github.io/images/Projects/AlertBuddy/AlertBuddy_Poster_Amente.pdf&embedded=true" 
 style="width:600px; height:500px;" frameborder="0"></iframe>
