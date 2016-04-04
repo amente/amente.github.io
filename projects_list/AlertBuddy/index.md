@@ -5,7 +5,7 @@ description: "Wearable Emergency Alerting Device"
 group: project
 weight: 3
 thumbnail: /images/Projects/AlertBuddy/alert_buddy.png
-status: 'inactive'
+status: 'active'
 ---
 
 {% include JB/setup %}

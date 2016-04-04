@@ -5,7 +5,7 @@ description: "Enviromentally powered atmospheric probe"
 group: project
 weight: 3
 thumbnail: /images/Projects/CanSat/cansat_4_200x200.png
-status: 'active'
+status: 'inactive'
 pictures:
 - /images/Projects/CanSat/cansat_1.png
 - /images/Projects/CanSat/cansat_2.png
