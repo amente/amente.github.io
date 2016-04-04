@@ -4,7 +4,7 @@ title: "Alert Buddy"
 description: "Wearable Emergency Alerting Device"
 group: project
 weight: 3
-thumbnail: /images/Projects/AlertBuddy/ alert_buddy_256x64.png
+thumbnail: /images/Projects/AlertBuddy/alert_buddy_256x64.png
 status: 'active'
 ---
 
@@ -23,4 +23,6 @@ I mainly worked on the research and development of the siren detection algorithm
 
 The following poster shows the highlights of the technique: 
 
-<embed src="/project_list/AlertBuddy/AlertBuddy_Poster_Amente.pdf" width="600" height="500" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+
+<iframe src="http://docs.google.com/gview?url=http://amente.github.io//project_list/AlertBuddy/AlertBuddy_Poster_Amente.pdf&embedded=true" 
+style="width:600px; height:500px;" frameborder="0"></iframe>
