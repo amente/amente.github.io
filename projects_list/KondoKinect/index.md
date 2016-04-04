@@ -5,7 +5,7 @@ description: "Controlling a humanoid robot using Kinect for Windows V2"
 group: project
 weight: 4
 thumbnail: /images/Projects/Kondo_Kinect/setup_200x200.png
-status: 'active'
+status: 'inactive'
 ---
 {% include JB/setup %}
 
