@@ -4,7 +4,7 @@ title: "Alert Buddy"
 description: "Wearable Emergency Alerting Device"
 group: project
 weight: 3
-thumbnail: /images/Projects/AlertBuddy/alert_buddy.png
+thumbnail: /images/Projects/AlertBuddy/ alert_buddy_256x64.png
 status: 'active'
 ---
 
@@ -22,4 +22,5 @@ The wearable system was divided into four major subsystems: siren detection algo
 I mainly worked on the research and development of the siren detection algorithm.
 
 The following poster shows the highlights of the technique: 
+
 <embed src="/project_list/AlertBuddy/AlertBuddy_Poster_Amente.pdf" width="600" height="500" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
