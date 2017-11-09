@@ -1,31 +1,23 @@
----
-layout: index
-title: Amente
-tagline: aka nickname
----
-{% include JB/setup %}
+<html><head>
+	
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, minimal-ui">
+	
+	<title>Amente Bekele</title>
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300" rel="stylesheet" type="text/css">
+  
+     <style type="text/css">
+            body, html
+            {
+                margin: 0; padding: 0; height: 100%; overflow: hidden;
+            }
+        </style>
+	
+	</head>
+	<body>
+	
+		<iframe src="http://docs.google.com/gview?url=http://amente.github.io/Amente-Bekele-Resume_October_2017.pdf&amp;embedded=true" style="width:100%;height: 100%;" frameborder="0"></iframe>
+		
+	
 
-{% assign pages_list = site.pages %}
-
-<div class="row">
-  <h4> Active Projects </h4>
-  {% for page in pages_list %}
-  {% if page.group == 'project' and page.status == 'active'%}
-  <div class = "col-md-6" >
-    <h5><a href="{{ BASE_PATH }}{{ page.url }}"> {{page.title}}</a></h5>
-    <img src={{page.thumbnail}} class="img-responsive img-thumbnail" alt="Image">
-    <p> {{page.description}} </p>
-    <!--
-    <div class="span12">
-    {%for pic in page.pictures %}
-    {% if forloop.first %}
-    <div class="span4"><a href="{{ BASE_PATH }}{{ page.url }}"><img src="{{pic}}"></a><hr></div>
-    {%endif%}
-    {%endfor%}
-    <div class="span8"><p>{{page.highlights}}</p>
-  </div>
-</div> 	  -->
-</div>
-{%endif%}
-{%endfor%}
-</div>
+</body></html>
